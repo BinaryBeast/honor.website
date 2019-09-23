@@ -28,11 +28,7 @@ html
 
         min-height: 100%;
 
-        background-color: #222222;
-        /*background-image: url('../img/jc-gellidon-361849-unsplash.jpg');
-        background-image: url('../img/oskar-yildiz-1429611-unsplash.jpg');*/
-        background-position: center center;
-        background-size: cover;
+        background-color: #221E21;
 
         font-family: 'Muli', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Symbol";
         font-size: 0;
@@ -132,13 +128,15 @@ html
 
         a
         {
-            color: #AD1457;
+            color: #FF7000;
 
             font-weight: 600;
         }
 
         a:hover
         {
+            color: #FFD600;
+
             text-decoration: underline;
         }
 
